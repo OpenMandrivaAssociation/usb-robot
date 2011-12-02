@@ -9,6 +9,7 @@ URL:		http://sourceforge.net/projects/usb-robot
 Source0:	http://downloads.sourceforge.net/project/usb-robot/usb-robot/0.2.0/usb-robot-0.2.0.tar.gz
 
 BuildRequires:	usb1-devel
+BuildRequires:	libusb-devel
 
 %description
 usb-robot is a set of software tools for communicating with generic USB devices
