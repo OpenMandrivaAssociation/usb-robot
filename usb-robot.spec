@@ -10,6 +10,7 @@ Source0:	http://downloads.sourceforge.net/project/usb-robot/usb-robot/0.2.0/usb-
 
 BuildRequires:	usb1-devel
 BuildRequires:	libusb-devel
+BuildRequires:	readline-devel
 
 %description
 usb-robot is a set of software tools for communicating with generic USB devices
