@@ -30,3 +30,12 @@ from userspace using libusb.
 %{_bindir}/%{name}-master
 %{_bindir}/%{name}-slave
 %doc README COPYING
+
+
+%changelog
+* Fri Dec 02 2011 Alexander Khrukin <akhrukin@mandriva.org> 0.2.0-1
++ Revision: 737211
+- BuildReq fix
+- BuildReq fix
+- imported package usb-robot
+
