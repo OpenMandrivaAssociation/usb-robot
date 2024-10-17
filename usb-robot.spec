@@ -5,7 +5,7 @@ Summary:	USB Reverse engineering tools
 
 Group:		Development/Other
 License:	GPLv2
-URL:		http://sourceforge.net/projects/usb-robot
+URL:		https://sourceforge.net/projects/usb-robot
 Source0:	http://downloads.sourceforge.net/project/usb-robot/usb-robot/0.2.0/usb-robot-0.2.0.tar.gz
 
 BuildRequires:	usb1-devel
