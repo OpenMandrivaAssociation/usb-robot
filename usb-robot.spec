@@ -8,6 +8,11 @@ License:	GPLv2
 URL:		https://sourceforge.net/projects/usb-robot
 Source0:	http://downloads.sourceforge.net/project/usb-robot/usb-robot/0.2.0/usb-robot-0.2.0.tar.gz
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	usb1-devel
 BuildRequires:	libusb-devel
 BuildRequires:	readline-devel
